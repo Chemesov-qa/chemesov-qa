@@ -1,4 +1,4 @@
-## Hi there 👋
+## Тестирование — это круто! 👋
 
 <!--
 **Chemesov-qa/chemesov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
