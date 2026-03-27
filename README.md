@@ -1,16 +1,39 @@
-## Тестирование — это круто! 👋
+# Привет! Я Леонид 👋 (QA Engineer)
 
-<!--
-**Chemesov-qa/chemesov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — начинающий специалист по тестированию ПО. Недавно я успешно завершил один из самых полных курсов по QA («Тестирование ПО с нуля до продвинутого»), где отработал навыки на реальных проектах и симуляциях рабочих процессов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий и инструменты
+
+
+| Направление | Инструменты |
+| :--- | :--- |
+| **Тестирование** | Функциональное, регрессионное, интеграционное, тестирование API |
+| **Инструменты** | Postman, DevTools, SQL, Jira, Confluence, Charles Proxy |
+| **Документация** | Тест-кейсы, чек-листы, баг-репорты (Bug Reports) |
+| **Окружение** | Windows, Linux, Mobile (Android/iOS) |
+
+---
+
+### 📚 Чему я научился на курсе:
+*   **Анализ требований:** Умею находить серые зоны в ТЗ до начала разработки.
+*   **Тест-дизайн:** Применяю техники эквивалентного разделения, граничных значений и Pairwise.
+*   **Работа с API:** Тестирование запросов (GET, POST, PUT, DELETE) через Postman.
+*   **Базы данных:** Написание базовых SQL-запросов (SELECT, JOIN, WHERE) для проверки данных.
+*   **Жизненный цикл ПО:** Полное понимание SDLC и STLC, работа по Agile/Scrum.
+
+---
+
+### 📊 Моя активность на GitHub
+![GitHub Stats](https://vercel.app)
+
+---
+
+### 📫 Как со мной связаться:
+*   **Telegram:** [@твой_ник](https://t.me) <!-- Замени "твой_ник" на свой реальный -->
+*   **LinkedIn:** [Твой профиль](https://linkedin.com)
+*   **Email:** [твой-email@example.com](mailto:твой-email@example.com)
+
+---
+*«Тестирование — это не просто поиск ошибок, это забота о качестве продукта и комфорте пользователя.»* 🚀
