@@ -31,9 +31,9 @@
 ---
 
 ### 📫 Как со мной связаться:
-*   **Telegram:** [@твой_ник](https://t.me) <!-- Замени "твой_ник" на свой реальный -->
-*   **LinkedIn:** [Твой профиль](https://linkedin.com)
-*   **Email:** [твой-email@example.com](mailto:твой-email@example.com)
+*   **Telegram:** [@мой_ник](https://t.me) <!-- Замени "твой_ник" на свой реальный -->
+*   **LinkedIn:** [Мой профиль](https://linkedin.com)
+*   **Email:** [мой-email@example.com](mailto:твой-email@example.com)
 
 ---
 *«Тестирование — это не просто поиск ошибок, это забота о качестве продукта и комфорте пользователя.»* 🚀
