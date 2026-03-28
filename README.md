@@ -34,6 +34,8 @@
 
 ---
 
+<div align="center">
+
 ### 📫 Со мной можно связаться:
 
 <div id="badges">
