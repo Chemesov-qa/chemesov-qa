@@ -16,11 +16,17 @@
 
 **🤝 Что я ценю в компании:**
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-  <span style="background-color: #4CAF50; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; display: inline-block;">🤝 Дружный коллектив</span>
-  <span style="background-color: #2196F3; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; display: inline-block;">📈 Развитие</span>
-  <span style="background-color: #FF9800; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; display: inline-block;">🎯 Смысл</span>
-</div>>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background-color: #4CAF50; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🤝 Дружный коллектив</td>
+      <td width="20"></td>
+      <td align="center" style="background-color: #2196F3; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">📈 Развитие</td>
+      <td width="20"></td>
+      <td align="center" style="background-color: #FF9800; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🎯 Смысл</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
