@@ -14,10 +14,12 @@
 
 <br>
 
+**🤝 Что я ценю в компании:**
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="background-color: #4CAF50; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold;">🤝 Коллектив</td>
+      <td align="center" style="background-color: #4CAF50; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold;">🤝 Дружный коллектив</td>
       <td width="20"></td>
       <td align="center" style="background-color: #2196F3; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold;">📈 Развитие</td>
       <td width="20"></td>
