@@ -37,13 +37,16 @@
 ### 📫 Со мной можно связаться:
 
 <div id="badges">
-  <a href="https://t.me/ваш_телеграм" target="_blank">
+  <a href="https://t.me/leonid_qa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:ваша_почта@gmail.com" target="_blank">
+  <a href="mailto:leonid@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail.ru"/>
+  </a>
+  <a href="mailto:leonid.qa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ваш_profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonid-qa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
