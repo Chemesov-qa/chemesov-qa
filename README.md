@@ -23,7 +23,7 @@
       <td width="20"></td>
       <td align="center" style="background-color: #2196F3; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">📈 Развитие</td>
       <td width="20"></td>
-      <td align="center" style="background-color: #FF9800; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🎯 Смысл</td>
+      <td align="center" style="background-color: #FF9800; padding: 12px 24px; border-radius: 8px; color: white; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🎯 Интересные задачи</td>
     </tr>
   </table>
 </div>
