@@ -94,8 +94,10 @@
   <img src="https://luna1.co/eb0187.png" title="QASE" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testlink/testlink-original.svg" title="TestIT" width="40" height="40"/>&nbsp
 </div>
-амамам
-Составление чек-листов, тест-кейсов, тест-планов, отчетов о дефектах.
+
+Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; TestIT
+
+&nbsp;&nbsp;&nbsp;&nbsp;Составление чек-листов, тест-кейсов, тест-планов, отчетов о дефектах.
 
 <br>
 
