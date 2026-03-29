@@ -142,7 +142,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver. Понимание NoSQL на примере MongoDB.
+&nbsp;&nbsp;&nbsp;&nbsp;Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver. 
+<td>Понимание NoSQL на примере MongoDB.
 
 ---
 
