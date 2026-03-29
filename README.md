@@ -109,6 +109,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp
 </div>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;Понимание клиент-серверной архитектуры, HTTP-протокола, работа с DevTools, базовые знания HTML/CSS.<br>
 
 ---
@@ -118,6 +119,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp
 </div>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов),<br>
 &nbsp;&nbsp;&nbsp;&nbsp;работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.
 
@@ -129,7 +131,9 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" width="40" height="40"/>&nbsp
 </div>
-<p><em>Тестирование на Android/iOS, использование Android Studio (логи), работа с прокси-инструментами (перехват и подмена трафика).</em></p>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на Android/iOS, использование Android Studio (логи), работа с прокси-инструментами (перехват и подмена трафика).
+
 
 ---
 
@@ -138,7 +142,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp
 </div>
-<p><em>Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver. Понимание NoSQL на примере MongoDB.</em></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver. Понимание NoSQL на примере MongoDB.
 
 ---
 
@@ -150,7 +155,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp
 </div>
-<p><em>Работа с Git и Bash, понимание основ CI/CD (GitHub Actions, Jenkins).</em></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Работа с Git и Bash, понимание основ CI/CD (GitHub Actions, Jenkins).
 
 ---
 
