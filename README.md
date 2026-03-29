@@ -224,40 +224,38 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 ### 🏆 Сертификаты
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center">
+      <td align="center" valign="top" width="50%">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
-      <td align="center">
+      <td align="center" valign="top" width="50%">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + Практика. Базовый уровень</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Профессия: Тестировщик ПО – с нуля до первого проекта</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Практические тренажеры</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Тесты</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
-      </td>
-    </tr>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Старый Новый Баг!</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
@@ -265,7 +263,6 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
     </tr>
   </table>
 </div>
-
 ---
 
 ### ⭐ Индивидуальные достижения
