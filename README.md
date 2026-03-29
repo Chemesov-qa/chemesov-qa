@@ -118,8 +118,9 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp
 </div>
-<p><em>Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов),</em></p>
-<p><em>работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.</em></p>
+&nbsp;&nbsp;&nbsp;&nbsp;Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.
+
 ---
 
 #### 📱 Тестирование мобильных приложений
