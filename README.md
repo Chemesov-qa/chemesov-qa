@@ -131,7 +131,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" width="40" height="40"/>&nbsp
 </div>
   
-&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на Android/iOS, использование Android Studio (логи), работа с прокси-инструментами (перехват и подмена трафика).
+&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на Android/iOS, использование Android Studio (логи)
+&nbsp;&nbsp;&nbsp;&nbsp;Работа с прокси-инструментами (перехват и подмена трафика).
 
 
 ---
@@ -143,7 +144,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver. 
-<td>Понимание NoSQL на примере MongoDB.
+&nbsp;&nbsp;&nbsp;&nbsp;Понимание NoSQL на примере MongoDB.
 
 ---
 
