@@ -134,7 +134,6 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;Тестирование на Android/iOS, использование Android Studio (логи)
 &nbsp;&nbsp;&nbsp;&nbsp;Работа с прокси-инструментами (перехват и подмена трафика).
 
-
 ---
 
 #### 💾 Работа с данными
