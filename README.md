@@ -255,18 +255,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
         <strong>Тестирование ПО с нуля. Тесты</strong><br>
         <a href="#">📎 Посмотреть сертификат</a>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Симулятор собеседования</strong><br>
-        <a href="#">📎 Посмотреть сертификат</a>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Как искать работу и пройти собеседование</strong><br>
-        <a href="#">📎 Посмотреть сертификат</a>
-      </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Старый Новый Баг!</strong><br>
