@@ -99,7 +99,6 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Составление чек-листов, тест-кейсов, тест-планов, отчетов о дефектах.
 
-<br>
 ---
 
 #### 🌐 Тестирование веб-приложений
