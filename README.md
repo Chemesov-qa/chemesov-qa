@@ -119,8 +119,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp
 </div>
   
-&nbsp;&nbsp;&nbsp;&nbsp;Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов),<br>
-&nbsp;&nbsp;&nbsp;&nbsp;работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.
+&nbsp;&nbsp;&nbsp;&nbsp;Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.
 
 ---
 
