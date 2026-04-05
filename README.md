@@ -205,7 +205,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 | **API тестирование** | Коллекция тестов для REST и SOAP API в Postman | Postman, JS, Swagger | [🔗 Перейти](#) |
 | **SQL запросы** | Набор сложных SQL-запросов для проверки данных | MySQL, DBeaver | [🔗 Перейти](#) |
 | **Веб-тестирование** | Поиск багов с использованием DevTools | Chrome DevTools, HTML/CSS | [🔗 Перейти](#) |
-| **Планирование (Test Plan)** | Стратегия тестирования ПАК «Кордон» | Wireshark, Zabbix, Markdown | [🔗 Перейти](./TEST_PLAN_KORDON.md)(#) |
+| **Планирование(Test Plan)** | Стратегия тестирования ПАК «Кордон» | Wireshark, Zabbix, Markdown | [🔗 Перейти](./TEST_PLAN_KORDON.md)(#) |
 
 > 💡 *При нажатии на ссылку вы попадете в репозиторий с подробным описанием проекта, где сможете ознакомиться с документацией, скриншотами и результатами работы.*
 
