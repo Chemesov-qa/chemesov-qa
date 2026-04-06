@@ -1,22 +1,26 @@
-# 🤖 Автоматизация тестирования (UI Automation)
+# 🤖 Автоматизация UI-тестирования (Selenium + Python)
 
-Даже работая как Manual QA, я внедряю элементы автоматизации для проверки критического функционала (Smoke-тесты).
+В данном разделе представлены примеры автотестов, которые я разработал для оптимизации регрессионного тестирования системы «Кордон». 
 
-### Стек:
-- **Language:** Python 3.10
-- **Framework:** Selenium WebDriver
-- **Pattern:** Simple Script (для демонстрации навыков работы с DOM и селекторами)
-
-### Что проверяет скрипт `test_auth.py`:
-1. Открытие страницы авторизации комплекса «Кордон».
-2. Поиск элементов по `ID` (наиболее стабильный способ локации).
-3. Ввод валидных учетных данных.
-4. Верификацию успешного входа по заголовку страницы (`Title`).
-
-### Как запустить:
-1. Установить зависимости: `pip install selenium`.
-2. Скачать ChromeDriver.
-3. Запустить: `python test_auth.py`.
+> **Примечание:** Скрипты являются демонстрационными. Для запуска в реальной среде требуется доступ к закрытому контуру ПАК «Кордон».
 
 ---
-[⬅ Назад к проекту](https://github.com)
+
+### 1. Тест авторизации (Smoke Test)
+**Зачем написал:** Чтобы не вводить логин/пароль вручную при каждой проверке. Скрипт проверяет базовую доступность системы и корректность работы БД пользователей.
+
+<details>
+<summary>📦 Посмотреть код скрипта</summary>
+
+```python
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+def test_login():
+    driver = webdriver.Chrome()
+    driver.get("http://cordon-system.local")
+    driver.find_element(By.ID, "user").send_keys("Operator_1")
+    driver.find_element(By.ID, "pass").send_keys("Pass123")
+    driver.find_element(By.ID, "submit").click()
+    assert "Dashboard" in driver.title
+    driver.quit()
