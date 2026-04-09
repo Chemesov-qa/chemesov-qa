@@ -204,6 +204,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 | **Тестовая документация** | Чек-листы, тест-кейсы, баг-репорты для веб-приложения | Jira, TestRail, QASE | [🔗 Перейти](#) |
 | **API тестирование** | Коллекция тестов для REST и SOAP API в Postman | Postman, JS, Swagger | [🔗 Перейти](#) |
 | **SQL запросы** | Набор сложных SQL-запросов для проверки данных | MySQL, DBeaver | [🔗 Перейти](./SQL_CASES.md) |
+| **Автоматизация** | Для оптимизации регрессионного тестирования системы «Кордон» | MySQL, DBeaver | [🔗 Перейти](./SQL_CASES.md) |
 | **Mind-map** | Интеллект-карта проекта | Chrome DevTools, HTML/CSS | [🔗 Перейти](./MIND_MAP.md) |
 | **План / Test Plan** | Стратегия тестирования ПАК «Кордон» | Wireshark, Zabbix, Markdown | [🔗 Перейти](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет о результатах тестирования | Chrome DevTools, HTML/CSS | [🔗 Перейти](./TEST_SUMMARY.md) |
