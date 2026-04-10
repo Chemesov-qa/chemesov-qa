@@ -1,6 +1,6 @@
 # Привет, меня зовут Леонид! 👋
 
-![API Tests](https://github.com)
+![API Tests](.github/workflows/main.yml)
   
 ### 👨‍💻 Обо мне:
 
