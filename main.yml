@@ -1,0 +1,33 @@
+name: API Automated Tests
+on: [push, workflow_dispatch]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Newman and Reporter
+        run: |
+          npm install -g newman
+          npm install -g newman-reporter-htmlextra
+
+      - name: Run API Tests
+        # Проверь, что файлы лежат в корне или замени путь (например, на /postman_collections/...)
+        run: |
+          newman run booking_tests.json \
+          -e booking_env.json \
+          -r htmlextra \
+          --reporter-htmlextra-export report.html
+
+      - name: Upload HTML Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: API-Test-Report
+          path: report.html
