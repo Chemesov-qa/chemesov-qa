@@ -1,6 +1,6 @@
 # Привет, меня зовут Леонид! 👋
 
-![API Tests](.github/workflows/main.yml)
+![API Tests](https://github.com/Leonid-QA/Leonid-QA/actions/workflows/main.yml/badge.svg)
   
 ### 👨‍💻 Обо мне:
 
