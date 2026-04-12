@@ -210,7 +210,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | Postman, Swagger | [🔗 Перейти](./API_TESTING_POSTMAN.md) |
 | **SQL запросы** | Валидация данных и сложные выборки для проверки БД | MySQL, DBeaver | [🔗 Перейти](./SQL_CASES.md) |
 | **Автоматизация** | Разработка автотестов для регрессионного тестирования системы | Python + Selenium | [🔗 Перейти](./AUTOTESTS.md) |
-| **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | XMind | [🔗 Перейти](./KORDON_MINDMAP_CASE.md) |
+| **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | XMind | [🔗 Перейти](./MAP/KORDON_MINDMAP_CASE.md) |
 | **План / Test Plan** | Стратегия обеспечения качества и методология проверок | Markdown, Confluence | [🔗 Перейти](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [🔗 Перейти](./TEST_SUMMARY.md) |
 
