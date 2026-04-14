@@ -127,10 +127,13 @@
 
 > *Смотреть Mind-map* [🗺️ Посмотреть карту декомпозиции](./MAP/KORDON_MINDMAP_CASE.md)<br>
 > *Test Plan* [🗺️ Смотреть план](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *API тестирование* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
-> *Смотреть SQL запросы* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
-> *Автоматизация* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
-> *Test Summary Report* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
+> *API тестирование* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
+> *Смотреть SQL запросы* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
+> *Автоматизация* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
+> *Test Summary Report* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
+>
+> [![Посмотреть Mind Map](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+> [![🗺️ Посмотреть Mind Map](https://img.shields.io/badge/🗺️_Посмотреть_Mind_Map-6f42c1?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
 
 [**◀️ НАЗАД К ПРОЕКТУ**](https://github.com)
 
