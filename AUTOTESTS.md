@@ -24,6 +24,7 @@ def test_login():
     driver.find_element(By.ID, "submit").click()
     assert "Dashboard" in driver.title
     driver.quit()
+``` <--- ДОБАВЬТЕ ЭТИ КАВЫЧКИ ТУТ
 
 </details>
 
