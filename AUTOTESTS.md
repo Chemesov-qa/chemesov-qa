@@ -26,6 +26,5 @@ def test_login():
     driver.quit()
 </details>
 ```
-
 [**◀️ НАЗАД К ПРОФИЛЮ**](https://github.com)
 
