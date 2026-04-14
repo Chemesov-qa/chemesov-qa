@@ -32,6 +32,7 @@
     - **Network:** Стабильность RTSP-потоков и Heartbeat-сигналов.
 
 > *Ссылка на карту:*<br>
+
 > [![Mind-map](https://img.shields.io/badge/🗺️_Посмотреть_карту_декомпозиции-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
 
 ---
