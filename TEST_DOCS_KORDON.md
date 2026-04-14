@@ -31,8 +31,7 @@
     - **Software:** Процессы регистрации ТС, ротация логов, потребление RAM.
     - **Network:** Стабильность RTSP-потоков и Heartbeat-сигналов.
 
-> *Ссылка на карту:* [🗺️ Посмотреть карту декомпозиции](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
-[![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
+> *Ссылка на карту:* [![Mind-map](https://img.shields.io/badge/🗺️_Посмотреть_карту_декомпозиции-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
 
 ---
 
