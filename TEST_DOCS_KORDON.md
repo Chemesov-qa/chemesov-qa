@@ -134,7 +134,7 @@
 
 [**◀️ НАЗАД К ПРОЕКТУ**](https://github.com)
 
-[![Назад к проекту](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)]([https://github.com](https://github.com/Leonid-QA))
+[![Назад к проекту](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)]([https://github.com/Leonid-QA])
 
 *Этот пример демонстрирует мой подход: я не просто нажимаю кнопки по тест-кейсу, я понимаю физику процесса и возможные риски для бизнеса.*
 
