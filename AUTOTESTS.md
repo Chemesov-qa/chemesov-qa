@@ -27,5 +27,5 @@ def test_login():
 ```
 </details>
 
-[![Назад к проекту](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
 
