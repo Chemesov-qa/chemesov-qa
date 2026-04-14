@@ -126,7 +126,22 @@
 Другие кейсы:
 
 > *Смотреть Mind-map* [🗺️ Посмотреть карту декомпозиции](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Смотреть План / Test Plan* [🗺️ Посмотреть карту декомпозиции](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Смотреть SQL запросы* [🗺️ Посмотреть карту декомпозиции](./MAP/KORDON_MINDMAP_CASE.md)
-> 
+> *Test Plan* [🗺️ Смотреть план](./MAP/KORDON_MINDMAP_CASE.md)<br>
+> *API тестирование* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
+> *Смотреть SQL запросы* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
+> *Автоматизация* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
+> *Test Summary Report* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
+
+[`⬅ Назад к проекту`](https://github.com)
+
 *Этот пример демонстрирует мой подход: я не просто нажимаю кнопки по тест-кейсу, я понимаю физику процесса и возможные риски для бизнеса.*
+
+
+
+
+
+
+
+
+
+
