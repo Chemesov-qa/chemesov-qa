@@ -132,7 +132,7 @@
 > *Автоматизация* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
 > *Test Summary Report* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)
 
-[`⬅ Назад к проекту`](https://github.com)
+<a href="https://github.com" style="display: inline-block; padding: 10px 20px; background-color: #6f42c1; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px;">⬅ Назад к проекту</a>
 
 *Этот пример демонстрирует мой подход: я не просто нажимаю кнопки по тест-кейсу, я понимаю физику процесса и возможные риски для бизнеса.*
 
