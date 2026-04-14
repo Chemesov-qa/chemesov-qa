@@ -125,16 +125,6 @@
 
 Другие кейсы:
 
-> *Смотреть Mind-map* [🗺️ Посмотреть карту декомпозиции](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Test Plan* [🗺️ Смотреть план](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *API тестирование* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Смотреть SQL запросы* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Автоматизация* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
-> *Test Summary Report* [🗺️ Смотреть SQL запросы](./MAP/KORDON_MINDMAP_CASE.md)<br>
->
-> [![Посмотреть Mind Map](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)<br>
-> [![🗺️ Посмотреть Mind Map](https://img.shields.io/badge/🗺️_Посмотреть_Mind_Map-6f42c1?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
-
 | Направление | Описание | Ссылка |
 |-------------|----------|--------|
 | **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
@@ -144,9 +134,7 @@
 | **Автоматизация** | Разработка автотестов для регрессионного тестирования | [![Автотесты](https://img.shields.io/badge/🤖_Автотесты-2E6B3E?style=for-the-badge)](./AUTOTESTS.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | [![Отчет](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
 
-[**◀️ НАЗАД К ПРОЕКТУ**](https://github.com)
-
-[![Назад к проекту](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_Назад_к_проекту-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
 
 *Этот пример демонстрирует мой подход: я не просто нажимаю кнопки по тест-кейсу, я понимаю физику процесса и возможные риски для бизнеса.*
 
