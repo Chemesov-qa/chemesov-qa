@@ -9,6 +9,9 @@
 ### 1. Тест авторизации (Smoke Test)
 **Зачем написал:** Чтобы не вводить логин/пароль вручную при каждой проверке. Скрипт проверяет базовую доступность системы и корректность работы БД пользователей.
 
+<details>
+<summary>📦 Посмотреть код скрипта</summary>
+
 ```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -21,6 +24,7 @@ def test_login():
     driver.find_element(By.ID, "submit").click()
     assert "Dashboard" in driver.title
     driver.quit()
+</details>
 ```
 
 [**◀️ НАЗАД К ПРОФИЛЮ**](https://github.com)
