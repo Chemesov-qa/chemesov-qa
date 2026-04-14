@@ -136,7 +136,7 @@
 > [![🗺️ Посмотреть Mind Map](https://img.shields.io/badge/🗺️_Посмотреть_Mind_Map-6f42c1?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
 
 | Направление | Описание | Ссылка |
-|-------------|----------|-------------|--------|
+|-------------|----------|--------|
 | **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **Test Plan** | Стратегия обеспечения качества и методология проверок | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-1A6B8A?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
