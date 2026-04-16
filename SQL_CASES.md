@@ -10,11 +10,16 @@
 
 *   **Запрос:**
     ```sql
-    SELECT id, plate_number, event_time, camera_id, confidence_score
+    SELECT 
+    id AS "ID записи", 
+    plate_number AS "Госномер", 
+    event_time AS "Время проезда", 
+    camera_id AS "ID камеры", 
+    confidence_score AS "Точность распознавания"
     FROM recognition_events
     WHERE plate_number = 'A123BC777' 
-      AND event_time >= '2024-05-20 10:00:00'
-    ORDER BY event_time DESC;
+    AND event_time >= '2024-05-20 10:00:00'
+    ORDER BY "Время проезда" DESC;
     ```
 *   **Что проверяем:** Соответствие `Timestamp` в базе реальному времени проезда и наличие высокого порога уверенности распознавания (`confidence_score > 0.8`).
 
@@ -26,14 +31,14 @@
 *   **Запрос:**
     ```sql
     SELECT 
-        e.event_time, 
-        e.plate_number, 
-        d.device_name, 
-        d.location_address
+    e.event_time AS "Время события", 
+    e.plate_number AS "Госномер", 
+    d.device_name AS "Имя устройства", 
+    d.location_address AS "Адрес установки"
     FROM recognition_events AS e
     JOIN devices AS d ON e.device_id = d.id
     WHERE d.status = 'Online'
-    ORDER BY e.event_time DESC
+    ORDER BY "Время события" DESC
     LIMIT 10;
     ```
 *   **Что проверяем:** Отсутствие "осиротевших" записей (events без привязки к device) и корректность отображения адреса установки в логах.
@@ -45,9 +50,13 @@
 
 *   **Запрос:**
     ```sql
-    SELECT plate_number, event_time, device_id, COUNT(*) as duplicate_count
+    SELECT 
+    plate_number AS "Госномер", 
+    event_time AS "Время проезда", 
+    device_id AS "ID устройства", 
+    COUNT(*) AS "Количество дублей"
     FROM recognition_events
-    GROUP BY plate_number, event_time, device_id
+    GROUP BY "Госномер", "Время проезда", "ID устройства"
     HAVING COUNT(*) > 1;
     ```
 *   **Что проверяем:** Уникальность каждой фиксации. Если запрос возвращает строки — это свидетельствует о дефекте в логике сохранения данных (Race Condition или отсутствие Unique Constraint).
@@ -59,10 +68,12 @@
 
 *   **Запрос:**
     ```sql
-    SELECT camera_id, COUNT(*) as total_cars
+    SELECT 
+    camera_id AS "ID камеры", 
+    COUNT(*) AS "Всего автомобилей за час"
     FROM recognition_events
     WHERE event_time BETWEEN '2024-05-20 09:00:00' AND '2024-05-20 10:00:00'
-    GROUP BY camera_id;
+    GROUP BY "ID камеры";
     ```
 *   **Что проверяем:** Сходятся ли цифры в графиках мониторинга с реальным количеством записей в таблице.
 
