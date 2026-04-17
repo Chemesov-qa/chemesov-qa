@@ -90,22 +90,6 @@
 
 #### 📁 Тестовая документация
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtrack/youtrack-original.svg" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://luna1.co/eb0187.png" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testlink/testlink-original.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  Jira &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  YouTrack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  TestRail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  QASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  TestIT
-</p>
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="50" height="50"/></td>
@@ -123,28 +107,39 @@
   </tr>
 </table>
 
-Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; TestIT
-
 &nbsp;&nbsp;&nbsp;&nbsp;Составление чек-листов, тест-кейсов, тест-планов, отчетов о дефектах.
 
 ---
 
 #### 🌐 Тестирование веб-приложений
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">Chrome DevTools</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+  </tr>
+</table>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Понимание клиент-серверной архитектуры, HTTP-протокола, работа с DevTools, базовые знания HTML/CSS.<br>
 
 ---
 
 #### 🔌 Тестирование API
-<div>
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">Postman</td>
+    <td align="center">Swagger</td>
+  </tr>
+</table>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Опыт работы с Postman (создание коллекций, авторизация, переменные, написание простых автотестов)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Работа с cURL, понимание REST и SOAP, использование Swagger для работы с документацией.
@@ -152,11 +147,18 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 ---
 
 #### 📱 Тестирование мобильных приложений
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" width="40" height="40"/>&nbsp
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">Android Studio</td>
+    <td align="center">Charles Proxy</td>
+    <td align="center">Fiddler</td>
+  </tr>
+</table>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Тестирование на Android/iOS, использование Android Studio (логи)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Работа с прокси-инструментами (перехват и подмена трафика).
@@ -164,10 +166,16 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 ---
 
 #### 💾 Работа с данными
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">MySQL</td>
+    <td align="center">MongoDB</td>
+  </tr>
+</table>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Написание сложных SQL-запросов (SELECT, JOIN, агрегатные функции) в MySQL и DBeaver.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Понимание NoSQL на примере MongoDB.
@@ -175,13 +183,22 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 ---
 
 #### ✏️ Работа с кодом и инструментами
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">Git</td>
+    <td align="center">Bash</td>
+    <td align="center">VS Code</td>
+    <td align="center">GitHub</td>
+    <td align="center">Jenkins</td>
+  </tr>
+</table>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Работа с Git и Bash, понимание основ CI/CD (GitHub Actions, Jenkins).
 
