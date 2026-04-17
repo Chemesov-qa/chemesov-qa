@@ -149,7 +149,7 @@
 | **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **Test Plan** | Стратегия обеспечения качества и методология проверок | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-1A6B8A?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
-| **SQL запросы** | Валидация данных и сложные выборки для проверки БД | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./SQL_CASES.md) |
+| **Тестовая документация** | Создание тест-кейсов и чек-листов для ПАК «Кордон» | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
 | **Автоматизация** | Разработка автотестов для регрессионного тестирования | [![Автотесты](https://img.shields.io/badge/🤖_Автотесты-2E6B3E?style=for-the-badge)](./AUTOTESTS.md) |
 | **Test Summary Report** | Отчёт по итогам цикла тестирования с метриками | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
 
