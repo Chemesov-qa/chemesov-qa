@@ -205,7 +205,7 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 
 
 | Проект | Описание | Стек технологий | Ссылка |
-| :--- | :--- | :--- | :---: |
+| :---: | :---: | :---: | :---: |
 | **Тестовая документация** | Создание тест-кейсов и чек-листов для ПАК «Кордон» | Jira, TestRail, MS Excel | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | Postman, Swagger | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
 | **SQL запросы** | Валидация данных и сложные выборки для проверки БД | MySQL, DBeaver | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
