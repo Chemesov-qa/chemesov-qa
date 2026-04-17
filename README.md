@@ -204,8 +204,8 @@ Jira &nbsp;&nbsp; YouTrack &nbsp;&nbsp; TestRail &nbsp;&nbsp; QASE &nbsp;&nbsp; 
 ### 🛠 Проекты и опыт (QA Engineering)
 
 
-| Проект | Описание | Стек технологий | Ссылка |
-| :---: | :---: | :---: | :---: |
+| Проект | Описание | Ссылка |
+| :---: | :---: | :---: |
 | **Тестовая документация** | Создание тест-кейсов и чек-листов для ПАК «Кордон» | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
 | **SQL запросы** | Валидация данных и сложные выборки для проверки БД | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
