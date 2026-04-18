@@ -62,11 +62,11 @@
     ```sql
     SELECT 
     plate_number AS "Госномер", 
-    event_time AS "Время проезда", 
+    DATE_TRUNC('second', event_time) AS "Время проезда (сек)", -- Округляем до секунды
     device_id AS "ID устройства", 
     COUNT(*) AS "Количество дублей"
     FROM recognition_events
-    GROUP BY plate_number, event_time, device_id
+    GROUP BY plate_number, DATE_TRUNC('second', event_time), device_id
     HAVING COUNT(*) > 1;
     ```
 *   **Что проверяем:** Уникальность каждой фиксации. Если запрос возвращает строки - это свидетельствует о дефекте в логике сохранения данных (Race Condition или отсутствие Unique Constraint).
