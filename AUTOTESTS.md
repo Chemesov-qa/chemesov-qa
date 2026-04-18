@@ -32,7 +32,7 @@ def test_login():
 **Зачем написал:** Автоматизация рутинной операции создания заявки для проверки работы формы ввода и сохранения данных в системе.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 from selenium import webdriver
@@ -66,7 +66,7 @@ def test_create_pass_request():
 **Зачем написал:** Проверка корректности завершения сессии и возврата на страницу входа.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 from selenium import webdriver
@@ -95,7 +95,7 @@ def test_logout():
 **Зачем написал:** Валидация работы поискового фильтра в реестре выданных пропусков.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -123,7 +123,7 @@ def test_search_pass_by_number():
 **Зачем написал:** Убедиться, что система не сохраняет заявку без обязательного поля и выводит предупреждение.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -151,7 +151,7 @@ def test_validation_empty_car_number():
 **Зачем написал:** Проверка изменения контактных данных в личном кабинете оператора КПП.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -186,7 +186,7 @@ def test_edit_operator_profile():
 **Зачем написал:** Автоматизация проверки UI-компонента DatePicker, чтобы избежать ручного кликанья по датам.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -212,7 +212,7 @@ def test_datepicker_functionality():
 **Зачем написал:** Быстрый тест после деплоя, чтобы убедиться, что верстка не развалилась и все ключевые блоки на месте.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -240,7 +240,7 @@ def test_dashboard_ui_elements_presence():
 **Зачем написал:** Проверка работы выпадающего списка с AJAX-обновлением таблицы на странице "Журнал посетителей".
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
 
 ```python
 
@@ -272,7 +272,8 @@ def test_filter_visitors_by_status():
 **Зачем написал:** Проверка функционала прикрепления файлов (имитация сканирования паспорта) к заявке.
 
 <details>
-<summary> Посмотреть код скрипта</summary>
+<summary>📦 Посмотреть код скрипта</summary>
+
 
 ```python
 
