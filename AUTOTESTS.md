@@ -301,5 +301,5 @@ def test_upload_passport_scan():
 ```
 </details>
 
-[![[НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/-НаЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_НАЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
 
