@@ -17,10 +17,10 @@
     camera_id AS "ID камеры", 
     confidence_score AS "Точность распознавания"
     FROM recognition_events
-    WHERE plate_number = 'A123BC777' 
+    WHERE plate_number = 'А123ВС***' 
     AND event_time >= '2024-05-20 10:00:00'
     AND confidence_score > 0.8
-    ORDER BY "Время проезда" DESC;
+    ORDER BY event_time DESC;
     ```
 *   **Что проверяем:** Соответствие Timestamp в базе реальному времени проезда и наличие высокого порога уверенности распознавания (не ниже 0.8).
 
@@ -87,8 +87,9 @@
     camera_id AS "ID камеры", 
     COUNT(*) AS "Всего автомобилей за час"
     FROM recognition_events
-    WHERE event_time BETWEEN '2024-05-20 09:00:00' AND '2024-05-20 10:00:00'
-    GROUP BY "ID камеры";
+    WHERE event_time >= '2024-05-20 09:00:00' 
+    AND event_time < '2024-05-20 10:00:00'
+    GROUP BY camera_id;
     ```
 *   **Что проверяем:** Сходятся ли цифры в графиках мониторинга с реальным количеством записей в таблице.
 
@@ -173,7 +174,9 @@
     latitude AS "Широта", 
     longitude AS "Долгота"
     FROM recognition_events
-    WHERE latitude = 0 OR longitude = 0 OR latitude IS NULL;
+    WHERE (latitude = 0.0 AND longitude = 0.0)  -- Нулевые координаты (дефолт)
+    OR latitude IS NULL 
+    OR longitude IS NULL;
     ```
 *   **Что проверяем:** Исправность GPS-модуля на аппаратном комплексе.
 
