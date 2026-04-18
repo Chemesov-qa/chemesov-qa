@@ -31,11 +31,10 @@ def test_login():
 ## 2. Тест проверки создания новой заявки на пропуск
 **Зачем написал:** Автоматизация рутинной операции создания заявки для проверки работы формы ввода и сохранения данных в системе.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
@@ -66,11 +65,10 @@ def test_create_pass_request():
 ## 3. Тест выхода из системы (Logout)
 **Зачем написал:** Проверка корректности завершения сессии и возврата на страницу входа.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -96,11 +94,11 @@ def test_logout():
 ## 4. Тест поиска по номеру пропуска
 **Зачем написал:** Валидация работы поискового фильтра в реестре выданных пропусков.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -124,11 +122,11 @@ def test_search_pass_by_number():
 ## 5. Тест проверки валидации пустого поля "Номер автомобиля"
 **Зачем написал:** Убедиться, что система не сохраняет заявку без обязательного поля и выводит предупреждение.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -152,11 +150,11 @@ def test_validation_empty_car_number():
 ## 6. Тест редактирования профиля оператора
 **Зачем написал:** Проверка изменения контактных данных в личном кабинете оператора КПП.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -187,11 +185,11 @@ def test_edit_operator_profile():
 ## 7. Тест проверки работы календаря при выборе даты
 **Зачем написал:** Автоматизация проверки UI-компонента DatePicker, чтобы избежать ручного кликанья по датам.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -213,11 +211,11 @@ def test_datepicker_functionality():
 ## 8. Тест проверки наличия элементов интерфейса на главной странице (UI Elements Check)
 **Зачем написал:** Быстрый тест после деплоя, чтобы убедиться, что верстка не развалилась и все ключевые блоки на месте.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -241,11 +239,11 @@ def test_dashboard_ui_elements_presence():
 ## 9. Тест фильтрации списка посетителей по статусу
 **Зачем написал:** Проверка работы выпадающего списка с AJAX-обновлением таблицы на странице "Журнал посетителей".
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
@@ -273,11 +271,11 @@ def test_filter_visitors_by_status():
 ## 10. Тест загрузки фотографии при регистрации посетителя
 **Зачем написал:** Проверка функционала прикрепления файлов (имитация сканирования паспорта) к заявке.
 
-```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
-python
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
