@@ -45,7 +45,7 @@
 ---
 
 ## 🔗 Практический результат
-На основе данной карты реализован **[Чек-лист тестирования ПАК Кордон](ссылка_на_файл)**, который включает в себя:
+На основе данной карты реализован [![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/Чек-лист_тестирования_ПАК_Кордон-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA), который включает в себя:
 *   Функциональное и интеграционное тестирование модулей.
 *   Приемо-сдаточные испытания (FAT/SAT).
 *   Регрессионное тестирование при обновлении версий ПО (текущая версия: 1.2).
@@ -56,3 +56,6 @@
 *   **Networking:** ICMP, VPN (Tunneling), RTSP, HTTP.
 *   **System:** Windows Services Management, System Logs Analysis, OS Resource Control.
 *   **QA Tools:** Mind Mapping, Test Documentation Design, System Decomposition.
+
+[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_НАЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+
