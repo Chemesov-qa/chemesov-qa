@@ -65,7 +65,7 @@
 *   **Метрики контроля:**
     *   Объем свободной RAM (Memory Leak detection).
     *   Количество потерянных пакетов (Packet Loss) на интерфейсе `eth0` / `wwan0`.
-    *   Ошибки сегментации (`Segmentation fault`) - Мониторинг логов через `coredumpctl` и скрипт `check_segfault.sh`ё на стороне GitLab Runner (т.к. Grafana не видит падения процессов уровня ядра).
+    *   Ошибки сегментации (`Segmentation fault`) - Мониторинг логов через `coredumpctl` и скрипт `check_segfault.sh` на стороне GitLab Runner (т.к. Grafana не видит падения процессов уровня ядра).
 
 ## 5. Риски и минимизация
 
