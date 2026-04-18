@@ -151,7 +151,7 @@
     z.speed_limit AS "Лимит на участке"
     FROM recognition_events e
     JOIN zones z ON e.zone_id = z.id
-    WHERE e.speed <= z.speed_limit + 2  
+    WHERE e.speed - z.speed_limit <= 2  -- Разница между скоростью и лимитом 2 или меньше
     AND e.violation_type = 'Speeding';
     ```
 *   **Что проверяем:** Отсутствие ложноположительных срабатываний на граничных значениях скорости.
