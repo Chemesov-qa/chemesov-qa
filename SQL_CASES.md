@@ -1,7 +1,7 @@
 # 🗄 Tестирования базы данных SQL
 
 В рамках проекта «Кордон» выполнял прямую проверку корректности сохранения данных в PostgreSQL.<br>
-Ниже - примеры SQL-запросов, которые применялись для контроля целостности информации на уровне базы.
+Ниже примеры SQL-запросов, которые применялись для контроля целостности информации на уровне базы.
 
 ---
 
@@ -66,7 +66,7 @@
     device_id AS "ID устройства", 
     COUNT(*) AS "Количество дублей"
     FROM recognition_events
-    GROUP BY "Госномер", "Время проезда", "ID устройства"
+    GROUP BY plate_number, event_time, device_id
     HAVING COUNT(*) > 1;
     ```
 *   **Что проверяем:** Уникальность каждой фиксации. Если запрос возвращает строки - это свидетельствует о дефекте в логике сохранения данных (Race Condition или отсутствие Unique Constraint).
@@ -146,12 +146,13 @@
 *   **Запрос:**
     ```sql
     SELECT 
-    id AS "ID записи", 
-    speed AS "Зафиксированная скорость", 
-    speed_limit AS "Лимит на участке"
-    FROM recognition_events
-    WHERE speed <= speed_limit + 2  -- Порог погрешности
-    AND violation_type = 'Speeding';
+    e.id AS "ID записи", 
+    e.speed AS "Зафиксированная скорость", 
+    z.speed_limit AS "Лимит на участке"
+    FROM recognition_events e
+    JOIN zones z ON e.zone_id = z.id
+    WHERE e.speed <= z.speed_limit + 2  
+    AND e.violation_type = 'Speeding';
     ```
 *   **Что проверяем:** Отсутствие ложноположительных срабатываний на граничных значениях скорости.
 
