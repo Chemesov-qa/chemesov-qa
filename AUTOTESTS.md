@@ -31,6 +31,7 @@ def test_login():
 ## 2. Тест проверки создания новой заявки на пропуск
 **Зачем написал:** Автоматизация рутинной операции создания заявки для проверки работы формы ввода и сохранения данных в системе.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -58,13 +59,14 @@ def test_create_pass_request():
     success_message = driver.find_element(By.CLASS_NAME, "alert-success").text
     assert "Заявка успешно создана" in success_message
     driver.quit()
-
+```
 </details>
 
 ---
 ## 3. Тест выхода из системы (Logout)
 **Зачем написал:** Проверка корректности завершения сессии и возврата на страницу входа.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -87,13 +89,14 @@ def test_logout():
     
     assert "Вход в систему" in driver.page_source
     driver.quit()
-
+```
 </details>
 
 ---
 ## 4. Тест поиска по номеру пропуска
 **Зачем написал:** Валидация работы поискового фильтра в реестре выданных пропусков.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -114,13 +117,14 @@ def test_search_pass_by_number():
     result_row = driver.find_element(By.XPATH, "//table/tbody/tr[1]/td[2]")
     assert "PASS-2023-001" in result_row.text
     driver.quit()
-
+```
 </details>
 
 ---
 ## 5. Тест проверки валидации пустого поля "Номер автомобиля"
 **Зачем написал:** Убедиться, что система не сохраняет заявку без обязательного поля и выводит предупреждение.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -141,13 +145,14 @@ def test_validation_empty_car_number():
     error_message = driver.find_element(By.ID, "car_number-error").text
     assert "Поле обязательно для заполнения" in error_message
     driver.quit()
-
+```
 </details>
 
 ---
 ## 6. Тест редактирования профиля оператора
 **Зачем написал:** Проверка изменения контактных данных в личном кабинете оператора КПП.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -175,13 +180,14 @@ def test_edit_operator_profile():
     updated_phone = driver.find_element(By.ID, "phone").get_attribute("value")
     assert updated_phone == "+7 999 123 45 67"
     driver.quit()
-
+```
 </details>
 
 ---
 ## 7. Тест проверки работы календаря при выборе даты
 **Зачем написал:** Автоматизация проверки UI-компонента DatePicker, чтобы избежать ручного кликанья по датам.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -200,13 +206,14 @@ def test_datepicker_functionality():
     selected_date = driver.find_element(By.ID, "date_from").get_attribute("value")
     assert selected_date != ""
     driver.quit()
-
+```
 </details>
 
 ---
 ## 8. Тест проверки наличия элементов интерфейса на главной странице (UI Elements Check)
 **Зачем написал:** Быстрый тест после деплоя, чтобы убедиться, что верстка не развалилась и все ключевые блоки на месте.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -227,13 +234,14 @@ def test_dashboard_ui_elements_presence():
     assert driver.find_element(By.ID, "recent_activity").is_displayed()
     
     driver.quit()
-
+```
 </details>
 
 ---
 ## 9. Тест фильтрации списка посетителей по статусу
 **Зачем написал:** Проверка работы выпадающего списка с AJAX-обновлением таблицы на странице "Журнал посетителей".
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -258,13 +266,14 @@ def test_filter_visitors_by_status():
         assert status_cell.text == "На территории"
     
     driver.quit()
-
+```
 </details>
 
 ---
 ## 10. Тест загрузки фотографии при регистрации посетителя
 **Зачем написал:** Проверка функционала прикрепления файлов (имитация сканирования паспорта) к заявке.
 
+```python
 <details>
 <summary> Посмотреть код скрипта</summary>
 
@@ -290,7 +299,7 @@ def test_upload_passport_scan():
     assert preview.is_displayed()
     
     driver.quit()
-
+```
 </details>
 
 [![[НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/-НаЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
