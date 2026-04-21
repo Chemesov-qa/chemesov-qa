@@ -281,6 +281,7 @@
     <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br>
     <a href="./TEST_PLAN_KORDON.md">
         <img src="https://img.shields.io/badge/📋_ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
+      &nbsp; &nbsp;
     </a>
 </td>
       <td align="center" valign="top" width="50%">
