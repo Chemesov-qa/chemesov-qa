@@ -173,7 +173,7 @@
 
 **💡Следующий кейс:** 
 
-[![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md)
 
 ---
 
