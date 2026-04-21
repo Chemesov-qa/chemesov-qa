@@ -58,7 +58,7 @@
     pm.environment.set("bookingId", response.bookingid);
 
 ---
-# 📋 API Тестирование: Restful-Booker — Комплексная автоматизация E2E сценариев
+# 📋 API Тестирование: Restful-Booker -<br> Комплексная автоматизация E2E сценариев
 
 **Примечание:**<br> 
 > На реальном проекте мы не использовали тестирование API через Postman.<br>
