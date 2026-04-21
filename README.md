@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <strong>▼  Что я ценю в компании  ▼</strong>
+  <strong>▼&nbsp; Что я ценю в компании&nbsp; ▼</strong>
 </div>
 
 <br>
