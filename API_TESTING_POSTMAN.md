@@ -1,8 +1,8 @@
 # 📋 API Тестирование: Restful-Booker — Комплексная автоматизация E2E сценариев
 
-> "**Примечание:** На реальном проекте мы не использовали тестирование API через Postman.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные тесты выполнены в рамках демонстрационного примера работ<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;с целью показать навык и умение работать в Postman и тестировать API"
+"**Примечание:** На реальном проекте мы не использовали тестирование API через Postman.<br>
+Данные тесты выполнены в рамках демонстрационного примера работ<br>
+с целью показать навык и умение работать в Postman и тестировать API"
 
 **🧪 Обзор проекта**<br>
 
