@@ -120,7 +120,7 @@ pm.test("Данные в базе верны", function () {
 
 Следующий кейс: 
 
-[![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md)
+[![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-B8860B?style=for-the-badge)](./TEST_DOCS_KORDON.md)
 
 ---
 
