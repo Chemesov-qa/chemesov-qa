@@ -135,7 +135,6 @@
 | **Автоматизация** | Разработка автотестов для регрессионного тестирования | Python + Selenium | [![Автотесты](https://img.shields.io/badge/🤖_Автотесты-6F4E37?style=for-the-badge)](./AUTOTESTS.md) |
 | **Mind-map** | Визуализация стратегии покрытия<br>Декомпозиция проекта | XMind | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
-| **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
 
 ---
 
