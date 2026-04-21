@@ -313,7 +313,7 @@ def test_export_resolutions_xls():
 
 **💡 Следующий кейс:**
 
-[![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md)
 
 ---
 
