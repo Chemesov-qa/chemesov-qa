@@ -116,7 +116,7 @@
 
 Вот как выглядит настройка окружения:
 
-![Окружение Postman](image2.png)
+![Окружение Postman](./images/POSTMAN_ENVIRONMENT.png)
 
 > **Скриншот 2** — Переменные окружения: `baseUrl`, `token`, `bookingId`, `lastname`
 
