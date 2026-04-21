@@ -138,7 +138,7 @@
 
 **💡 Следующий кейс:**
 
-[![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md)
 
 ---
 
