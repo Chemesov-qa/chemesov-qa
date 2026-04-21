@@ -93,10 +93,10 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="50" height="50"/></td>
-    <td align="center"><img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" title="YouTrack" width="50" height="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtrack/youtrack-original.svg" title="YouTrack" width="50" height="50"/></td>
     <td align="center"><img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" width="50" height="50"/></td>
     <td align="center"><img src="https://luna1.co/eb0187.png" title="QASE" width="50" height="50"/></td>
-    <td align="center"><img src="https://testit.software/img/logo.svg" title="TestIT" width="50" height="50"/></td>
+    <td align="center"><img src="https://testit.software/favicon.svg" title="TestIT" width="50" height="50"/></td>
   </tr>
   <tr>
     <td align="center">Jira</td>
@@ -186,7 +186,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/></td>
