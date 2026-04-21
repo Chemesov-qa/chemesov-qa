@@ -273,9 +273,12 @@
 
 ### 🏆 Сертификаты
 
-<td align="center" valign="top" width="50%">
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
         <br>
-        <img src="https://img.icons8.com/fluency/48/000000/certificate.png" width="40"/><br>
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
