@@ -111,7 +111,7 @@
 
 Следующий кейс: 
 
-[![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md)
+[![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY_ОТЧЕТ_ПО_ИТОГАМ_ТЕСТИРОВАНИЯ.md)
 
 ---
 
