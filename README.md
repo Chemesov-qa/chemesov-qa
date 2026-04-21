@@ -96,7 +96,7 @@
     <td align="center"><img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" title="YouTrack" width="50" height="50"/></td>
     <td align="center"><img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" width="50" height="50"/></td>
     <td align="center"><img src="https://luna1.co/eb0187.png" title="QASE" width="50" height="50"/></td>
-    <td align="center"><img src="https://testit.software/favicon.svg" title="TestIT" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TestIT-6F42C1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3bC0xMC01em0wIDJ2OEg0VjhsOC00em0yIDBsOCA0djJsLTggNHYtMnptLTIgMTBsLTgtNHYybDggNCA4LTR2LTJsLTggNHoiLz48L3N2Zz4=" title="TestIT" width="80" height="28"/></td>
   </tr>
   <tr>
     <td align="center">Jira</td>
