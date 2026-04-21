@@ -57,6 +57,8 @@
 
 ![Коллекция запросов в Postman](./images/POSTMAN_COLLECTION.png)
 
+![Коллекция запросов в Postman](./images/report.html)
+
 > **Скриншот 1** - Структура коллекции: видно все 12 запросов и окружение `Restful_Booker_Env`
 
 ## Окружение и переменные
