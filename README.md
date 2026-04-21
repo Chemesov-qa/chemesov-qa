@@ -279,12 +279,12 @@
       <td align="center" valign="top" width="50%">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br>
-        <a href="#">📎 Посмотреть сертификат</a>
+        [![Test Plan](https://img.shields.io/badge/📋_ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md)
       </td>
       <td align="center" valign="top" width="50%">
         <img src="https://img.icons8.com/color/48/000visible/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + Практика. Базовый уровень</strong><br>
-        <a href="#">📎 Посмотреть сертификат</a>
+        <a href="#">📎 ПОСМОТРЕТЬ СЕРТИФИКАТ </a>
       </td>
     </tr>
     <tr>
