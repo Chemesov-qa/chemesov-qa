@@ -136,6 +136,10 @@
 | **Mind-map** | Визуализация стратегии покрытия<br>Декомпозиция проекта | XMind | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 
+**💡 Следующий кейс:**
+
+[![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md)
+
 ---
 
 [![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_НАЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
