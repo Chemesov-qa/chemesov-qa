@@ -279,7 +279,7 @@
       <td align="center" valign="top" width="50%">
         <br>
         <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br><br>
+        <strong>Тестирование ПО с нуля. Теория + практика.<br> Продвинутый уровень</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
@@ -288,7 +288,7 @@
       <td align="center" valign="top" width="50%">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Теория + Практика. Базовый уровень</strong><br><br>
+        <strong>Тестирование ПО с нуля. Теория + Практика.<br> Базовый уровень</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
@@ -299,7 +299,7 @@
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Профессия: Тестировщик ПО – с нуля до первого проекта</strong><br><br>
+        <strong>Профессия: Тестировщик ПО -<br> с нуля до первого проекта</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
@@ -308,7 +308,7 @@
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Практические тренажеры</strong><br><br>
+        <strong>Тестирование ПО с нуля.<br> Практические тренажеры</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
@@ -319,7 +319,7 @@
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Тесты</strong><br><br>
+        <strong>Тестирование ПО с нуля.<br>Тесты</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
@@ -328,7 +328,7 @@
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Старый Новый Баг!</strong><br><br>
+        <strong>Старый Новый Баг!<br>Тесты</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
