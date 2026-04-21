@@ -273,6 +273,8 @@
 
 ### 🏆 Сертификаты
 
+| <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br><strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong> | [![Сертификат](https://img.shields.io/badge/📋_ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
+
 <div align="center">
   <table width="100%">
     <tr>
