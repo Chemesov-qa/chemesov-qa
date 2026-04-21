@@ -75,6 +75,10 @@
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
 
+Следующий кейс: 
+
+[![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md)
+
 ---
 
 [![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_НАЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
