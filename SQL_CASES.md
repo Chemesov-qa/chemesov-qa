@@ -244,7 +244,7 @@
 
 **💡Следующий кейс:**
 
-[![Автотесты](https://img.shields.io/badge/🤖_Автотесты-6F4E37?style=for-the-badge)](./AUTOTESTS.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Автотесты](https://img.shields.io/badge/🤖_Автотесты-6F4E37?style=for-the-badge)](./AUTOTESTS.md)
 
 ---
 
