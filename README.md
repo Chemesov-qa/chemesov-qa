@@ -267,6 +267,7 @@
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-483D8B?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
 
+
 | Проект | Описание | Стек технологий | Ссылка |
 | :---: | :---: | :---: | :---: |
 | **Тестовая документация** | Создание тест-кейсов и чек-листов для ПАК «Кордон» | Jira, TestRail, MS Excel | [![Doc](https://shields.io🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
@@ -276,6 +277,7 @@
 | **Mind-map** | Визуализация стратегии покрытия<br>Декомпозиция проекта | XMind | [![Mind-map](https://shields.io🗺️_Mind--Map-008080?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://shields.io📋_Test_Plan-2F4F4F?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [![Отчёт](https://shields.io📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
+
 
 
 
