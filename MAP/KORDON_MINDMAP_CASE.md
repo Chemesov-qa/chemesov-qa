@@ -77,7 +77,7 @@
 
 **💡 Следующий кейс:**
 
-[![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md)
 
 ---
 
