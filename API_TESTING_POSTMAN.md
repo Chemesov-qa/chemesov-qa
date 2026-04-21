@@ -104,3 +104,20 @@ pm.test("Данные в базе верны", function () {
 
 *   Мой проект по автоматизации E2E сценариев в Postman демонстрирует полный жизненный цикл бронирования, включая авторизацию и валидацию API-запросов.<br>
 *   Реализованная структура обеспечивает гибкость за счет параметризации, чистоту данных через удаление сущностей и готовность к CI/CD интеграции через Newman, подтверждая навыки проектирования стабильных тестов.
+
+[![Посмотреть Test Summary Report](https://img.shields.io/badge/📊_Посмотреть_отчёт_по_тестированию-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md)
+
+Другие кейсы:
+
+| Направление | Описание | Ссылка |
+|:-----------:|:---------|:------:|
+| **Mind-map** | Визуализация стратегии покрытия и декомпозиция проекта | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
+| **Test Plan** | Стратегия обеспечения качества и методология проверок | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-1A6B8A?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
+| **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
+| **SQL запросы** | Валидация данных и сложные выборки для проверки БД | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
+| **Автоматизация** | Разработка автотестов для регрессионного тестирования | [![Автотесты](https://img.shields.io/badge/🤖_Автотесты-2E6B3E?style=for-the-badge)](./AUTOTESTS.md) |
+| **Test Summary Report** | Отчёт по итогам цикла тестирования с метриками | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
+
+---
+
+[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/⬅_НАЗАД_К_ПРОФИЛЮ-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
