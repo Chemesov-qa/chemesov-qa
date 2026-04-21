@@ -273,17 +273,14 @@
 
 ### 🏆 Сертификаты
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="50%">
         <br>
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <img src="https://img.icons8.com/fluency/48/000000/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + практика. Продвинутый уровень</strong><br><br>
         <a href="#">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-FFD700?style=for-the-badge" alt="Посмотреть сертификат">
+          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
       <td align="center" valign="top" width="50%">
         <br>
@@ -292,7 +289,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
     </tr>
     <tr>
@@ -303,7 +300,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
       <td align="center" valign="top">
         <br>
@@ -312,7 +309,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
     </tr>
     <tr>
@@ -323,7 +320,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
       <td align="center" valign="top">
         <br>
@@ -332,7 +329,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
-        <br>
+        <br><br>
       </td>
     </tr>
   </table>
