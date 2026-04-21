@@ -257,6 +257,7 @@
 
 &nbsp; &nbsp;
 
+-->
 > 💡 *Если вы хотите изучить все документы, можете начать с тестовой документации:<br>
 >
 > [![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md)
