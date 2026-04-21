@@ -118,11 +118,11 @@
 
 ![Окружение Postman](./images/POSTMAN_ENVIRONMENT.png)
 
-> **Скриншот 2** — Переменные окружения: `baseUrl`, `token`, `bookingId`, `lastname`
+> **Скриншот 2** - Переменные окружения: `Base_URL`, `token`, `bookingid`
 
 ## Результаты запуска тестов
 
-Все тесты я запустил через **Collection Runner** (встроенный "бегунок" в Postman). Вот результат:
+Все тесты я запустил через **Collection Runner**. Вот результат:
 
 ![Результаты запуска в Runner](image3.png)
 
