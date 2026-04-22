@@ -556,7 +556,6 @@
 </div>
 <br>
 </details>
-
         <br><br>
       </td>
       <td align="center" valign="top" width="50%">
@@ -596,7 +595,6 @@
 <br>
 
 </details>
-
         <br>
       </td>
     </tr>
@@ -638,7 +636,6 @@
 <br>
 
 </details>
-
         <br>
       </td>
       <td align="center" valign="top">
@@ -654,7 +651,6 @@
 </div>
 <br>
 </details>
-
         <br><br>
       </td>
     </tr>
@@ -672,7 +668,6 @@
 </div>
 <br>
 </details>
-
         <br><br>
       </td>
       <td align="center" valign="top">
@@ -688,7 +683,6 @@
 </div>
 <br>
 </details>
-
         <br><br>
       </td>
     </tr>
