@@ -313,8 +313,6 @@
 <details>
 <summary>Смотреть сертификат 💡</summary>
 
-  &nbsp; &nbsp;
-
   ![Сертификат](./CERTIFICATE/MAIN_CERTIFICATE_2.png)
 
 </div>
@@ -331,8 +329,6 @@
 &nbsp;  &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
-
-  &nbsp; &nbsp;
 
   ![Сертификат](./CERTIFICATE/MAIN_CERTIFICATE_3.png)
 
@@ -351,8 +347,6 @@
 <details>
 <summary>Смотреть сертификат 💡</summary>
 
-  &nbsp; &nbsp;
-
   ![Сертификат](./CERTIFICATE/MAIN_CERTIFICATE_4.png)
 
 </div>
@@ -369,8 +363,6 @@
 &nbsp;  &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
-
-  &nbsp; &nbsp;
 
   ![Сертификат](./CERTIFICATE/MAIN_CERTIFICATE_5.png)
 
