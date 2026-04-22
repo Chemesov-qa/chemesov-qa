@@ -319,7 +319,7 @@
 </details>
 
 &nbsp;  &nbsp;
-
+<div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля. Практические тренажеры для тестировщика<br>
 
@@ -336,7 +336,7 @@
 
 &nbsp;  &nbsp;
 
-
+<div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля. Тесты<br>
 
@@ -355,7 +355,7 @@
 
 &nbsp;  &nbsp;
 
-
+<div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Старый Новый Баг!<br>Тесты<br>
 
