@@ -320,21 +320,57 @@
 
 &nbsp;  &nbsp;
 
-
-
-
-
-</table> Тестирование ПО с нуля. Теория + Практика. Базовый уровень
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля. Практические тренажеры для тестировщика<br>
 
 <details>
-<summary><img src="https://img.icons8.com/color-glass/48/000000/certificate.png" alt="Посмотреть Сертификат"></summary>
+<summary>Подробная информация 💡</summary>
 
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</div>
 
 </details>
 
+&nbsp;  &nbsp;
 
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля. Тесты<br>
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</div>
+
+</details>
+
+&nbsp;  &nbsp;
+
+&nbsp;  &nbsp;
+
+
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Старый Новый Баг!<br>Тесты<br>
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</div>
+
+</details>
+
+&nbsp;  &nbsp;
 
 <details>
 <summary>📦 Посмотреть Сертификат</summary>
@@ -428,7 +464,7 @@
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Профессия: Тестировщик ПО<br> С нуля до первого проекта</strong><br><br>
+        <strong>Тестирование ПО с нуля. Практические тренажеры для тестировщика</strong><br><br>
         <a href="#">
           <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
         </a>
