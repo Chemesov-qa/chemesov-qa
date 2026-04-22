@@ -303,6 +303,11 @@
 ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 &nbsp;  &nbsp;
+
+---
+
+&nbsp;  &nbsp;
+
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень
@@ -319,6 +324,11 @@
 </details>
 
 &nbsp;  &nbsp;
+
+---
+
+&nbsp;  &nbsp;
+
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> Практические тренажеры для тестировщика<br>
@@ -333,6 +343,10 @@
 </div>
 
 </details>
+
+&nbsp;  &nbsp;
+
+---
 
 &nbsp;  &nbsp;
 
@@ -352,6 +366,8 @@
 </details>
 
 &nbsp;  &nbsp;
+
+---
 
 &nbsp;  &nbsp;
 
@@ -373,6 +389,7 @@
 &nbsp;  &nbsp;
 
 ---
+
 <div align="center">
   
 ### ⭐ Индивидуальные достижения
