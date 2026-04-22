@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
+
+
 # Привет, меня зовут Леонид! 👋
 
 ![API Tests](https://github.com/Leonid-QA/Leonid-QA/actions/workflows/main.yml/badge.svg)
