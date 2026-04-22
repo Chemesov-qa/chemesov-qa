@@ -306,11 +306,9 @@
 
 ---
 
-&nbsp;  &nbsp;
-
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень
+Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень<br>
 &nbsp; &nbsp;
 <details>
 <summary>Подробная информация 💡</summary>
@@ -326,8 +324,6 @@
 &nbsp;  &nbsp;
 
 ---
-
-&nbsp;  &nbsp;
 
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
@@ -348,8 +344,6 @@
 
 ---
 
-&nbsp;  &nbsp;
-
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> Тесты<br>
@@ -368,8 +362,6 @@
 &nbsp;  &nbsp;
 
 ---
-
-&nbsp;  &nbsp;
 
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
