@@ -274,6 +274,20 @@
 
 ### 🏆 Сертификаты 🏆
 
+<div style="margin-left: -20px; margin-right: -20px;">
+  <table width="100%" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+    <tr>
+      <td style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background-color: #f9f9f9;">
+        <div align="center">
+          <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+          <strong>ТЕСТИРОВАНИЕ ПО С НУЛЯ. ТЕОРИЯ + ПРАКТИКА.<br>ПРОДВИНУТЫЙ КУРС С ИИ</strong>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <table width="1000%">
   <tr>
     <td style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background-color: #f9f9f9;">
