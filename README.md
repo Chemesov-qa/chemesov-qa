@@ -423,7 +423,6 @@
 Спасибо, что дочитали до конца! Буду рад конструктивному диалогу и интересным предложениям.
 
 ---
-
 <div align="center">
   <br>
   <em>«Тестирование — это не просто поиск ошибок, это забота о качестве продукта и комфорте пользователя»</em> 🚀
@@ -450,7 +449,7 @@
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
-<details>
+<details open>
 <summary>Подробная информация ▼</summary>
 
   &nbsp; &nbsp;
@@ -474,9 +473,6 @@
 
 &nbsp;  &nbsp;
 
-
-
-
 &nbsp;  &nbsp;
         <br><br>
       </td>
@@ -488,7 +484,7 @@
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
-<details>
+<details open>
 <summary>Подробная информация 💡</summary>
 
   &nbsp; &nbsp;
@@ -545,4 +541,3 @@
     </tr>
   </table>
 </div>
-
