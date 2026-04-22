@@ -372,43 +372,6 @@
 
 &nbsp;  &nbsp;
 
-</div>
-
-<details>
-<summary>📦 Посмотреть Сертификат</summary>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
-</details>
-
-<details>
-<summary>📦 Посмотреть Сертификат</summary>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
-</details>
-
-<details>
-<summary>📦 Посмотреть Сертификат</summary>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
-</details>
-
-<details>
-<summary>📦 Посмотреть Сертификат</summary>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
-</details>
-
-<details>
-<summary>📦 Посмотреть Сертификат</summary>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
-</details>
-
 ---
 <div align="center">
   
