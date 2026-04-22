@@ -293,9 +293,7 @@
 
 <details>
 <summary>Подробная информация 💡</summary>
-  
   &nbsp; &nbsp;
-  
 > Продолжительность курса: 100 академических часов<br>
 > Освоенные темы:<br>
 > Классификация тестирования, анализ требований, тест-дизайн.<br>
@@ -304,6 +302,8 @@
 > Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
 > Тестирование Mobile в Android Studio и Charles Proxy.<br>
 > Работа с git и bash. Основы CI/CD в Jenkins<br>
+  
+&nbsp; &nbsp;
 
 </details>
 
