@@ -274,8 +274,6 @@
 
 ### 🏆 Сертификаты
 
-</div>
-
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png"><br> Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ<br>
 
 </div>
