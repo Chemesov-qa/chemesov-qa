@@ -281,14 +281,14 @@
 <details>
 <summary>Подробнее</summary>
   
-Продолжительность курса: 100 академических часов<br>
-Освоенные темы:<br>
-Классификация тестирования, анализ требований, тест-дизайн.<br>
-Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE.<br>
-Тестирование WEB и API в DevTools, Figma, Postman.<br>
-Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
-Тестирование Mobile в Android Studio и Charles Proxy.<br>
-Работа с git и bash. Основы CI/CD в Jenkins<br>
+> Продолжительность курса: 100 академических часов<br>
+> Освоенные темы:<br>
+> Классификация тестирования, анализ требований, тест-дизайн.<br>
+> Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE.<br>
+> Тестирование WEB и API в DevTools, Figma, Postman.<br>
+> Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
+> Тестирование Mobile в Android Studio и Charles Proxy.<br>
+> Работа с git и bash. Основы CI/CD в Jenkins<br>
 
 </details>
 
