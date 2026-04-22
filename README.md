@@ -435,7 +435,7 @@
 Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
 <details>
-<summary>Подробная информация 💡</summary>
+<summary><img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge"</summary>
 
   &nbsp; &nbsp;
   
@@ -450,11 +450,11 @@
 > Тестирование Mobile в Android Studio и Charles Proxy.<br>
 > Работа с git и bash. Основы CI/CD в Jenkins<br>
 
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
 </div>
 
 </details>
-
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 &nbsp;  &nbsp;
         <br><br>
