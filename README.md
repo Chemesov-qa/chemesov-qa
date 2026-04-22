@@ -278,7 +278,7 @@
 &nbsp;  &nbsp;<br>
 
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ
+Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -306,7 +306,7 @@
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
 Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень
-
+&nbsp; &nbsp;
 <details>
 <summary>Подробная информация 💡</summary>
 
