@@ -339,7 +339,7 @@
 </div>
 
 <details>
-<summary><img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть Сертификат"></summary>
+<summary><img src="https://img.icons8.com/color-glass/48/000000/certificate.png" alt="Посмотреть Сертификат"></summary>
 
 ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
