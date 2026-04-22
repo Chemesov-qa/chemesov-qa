@@ -274,7 +274,9 @@
 
 ### 🏆 Сертификаты 🏆
 
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png"><br> ТЕСТИРОВАНИЕ ПО С НУЛЯ. ТЕОРИЯ + ПРАКТИКА. ПРОДВИНУТЫЙ КУРС С ИИ<br>
+|  |
+| :---: |
+| <img src="https://img.icons8.com/color-glass/48/000000/certificate.png"><br> ТЕСТИРОВАНИЕ ПО С НУЛЯ. ТЕОРИЯ + ПРАКТИКА. ПРОДВИНУТЫЙ КУРС С ИИ<br> |
 
 </div>
 
