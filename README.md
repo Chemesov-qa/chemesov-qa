@@ -311,7 +311,7 @@
 Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень<br>
 &nbsp; &nbsp;
 <details>
-<summary>Подробная информация 💡</summary>
+<summary>Смотреть сертификат 💡</summary>
 
   &nbsp; &nbsp;
 
@@ -330,7 +330,7 @@
 Тестирование ПО с нуля<br> Практические тренажеры для тестировщика<br>
 &nbsp;  &nbsp;
 <details>
-<summary>Подробная информация 💡</summary>
+<summary>Смотреть сертификат 💡</summary>
 
   &nbsp; &nbsp;
 
@@ -349,7 +349,7 @@
 Тестирование ПО с нуля<br> Тесты<br>
 &nbsp;  &nbsp;
 <details>
-<summary>Подробная информация 💡</summary>
+<summary>Смотреть сертификат 💡</summary>
 
   &nbsp; &nbsp;
 
@@ -368,7 +368,7 @@
 Старый Новый Баг!<br>Тесты<br>
 &nbsp;  &nbsp;
 <details>
-<summary>Подробная информация 💡</summary>
+<summary>Смотреть сертификат 💡</summary>
 
   &nbsp; &nbsp;
 
