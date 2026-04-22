@@ -338,6 +338,19 @@
   </table>
 </div>
 
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png"> Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ<br>
+
+Продолжительность курса: 100 академических часов<br>
+Освоенные темы:<br>
+Классификация тестирования, анализ требований, тест-дизайн.<br>
+Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE.<br>
+Тестирование WEB и API в DevTools, Figma, Postman.<br>
+Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
+Тестирование Mobile в Android Studio и Charles Proxy.<br>
+Работа с git и bash. Основы CI/CD в Jenkins<br>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
 <details>
 <summary><img src="https://img.icons8.com/color-glass/48/000000/certificate.png" alt="Посмотреть Сертификат"></summary>
 
