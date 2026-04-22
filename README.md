@@ -338,7 +338,7 @@
   </table>
 </div>
 
-[![Посмотреть Test Summary Report](https://img.shields.io/badge/📊_Посмотреть_отчёт_по_тестированию-6B4A7A?style=for-the-badge)](./CERTIFICATE/MAIN_CERTIFICATE.png)
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 ---
 
