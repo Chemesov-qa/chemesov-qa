@@ -276,9 +276,7 @@
 
 </div>
 
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png"> 
-
-Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ<br>
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ<br>
 
 Продолжительность курса: 100 академических часов<br>
 Освоенные темы:<br>
