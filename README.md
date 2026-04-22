@@ -547,9 +547,16 @@
         <br>
         <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля. Теория + Практика<br> Продвинутый уровень</strong><br><br>
-        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
-        </a>
+        
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат"></summary>
+<br>
+<div align="center">
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
+</div>
+<br>
+</details>
+
         <br><br>
       </td>
       <td align="center" valign="top" width="50%">
@@ -576,11 +583,16 @@
 </div>
 
 <br>
+
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОКАЗАТЬ_СЕРТИФИКАТ-4CAF50?style=for-the-badge" alt="Показать сертификат"></summary>
+<br>
 <div align="center">
-  <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-    <img src="https://img.shields.io/badge/📜_ОТКРЫТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Открыть сертификат">
-  </a>
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
 </div>
+<br>
+</details>
+
 <br>
 
 </details>
@@ -613,11 +625,16 @@
 </div>
 
 <br>
+
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОКАЗАТЬ_СЕРТИФИКАТ-4CAF50?style=for-the-badge" alt="Показать сертификат"></summary>
+<br>
 <div align="center">
-  <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-    <img src="https://img.shields.io/badge/📜_ОТКРЫТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Открыть сертификат">
-  </a>
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
 </div>
+<br>
+</details>
+
 <br>
 
 </details>
@@ -628,9 +645,16 @@
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля<br> Практические тренажеры</strong><br><br>
-        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
-        </a>
+        
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат"></summary>
+<br>
+<div align="center">
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
+</div>
+<br>
+</details>
+
         <br><br>
       </td>
     </tr>
@@ -639,18 +663,32 @@
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
         <strong>Тестирование ПО с нуля<br>Тесты</strong><br><br>
-        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
-        </a>
+        
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат"></summary>
+<br>
+<div align="center">
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
+</div>
+<br>
+</details>
+
         <br><br>
       </td>
       <td align="center" valign="top">
         <br>
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
         <strong>Старый Новый Баг!<br>Тесты</strong><br><br>
-        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
-        </a>
+        
+<details>
+<summary><img src="https://img.shields.io/badge/📜_ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат"></summary>
+<br>
+<div align="center">
+  <img src="./CERTIFICATE/MAIN_CERTIFICATE.png" alt="Сертификат" width="100%">
+</div>
+<br>
+</details>
+
         <br><br>
       </td>
     </tr>
