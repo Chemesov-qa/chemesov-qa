@@ -1,22 +1,3 @@
-<summary><strong>🔽 ПОДРОБНАЯ ИНФОРМАЦИЯ 💡</strong></summary>
-
-<summary>✨ ПОДРОБНАЯ ИНФОРМАЦИЯ ✨</summary>
-
-<summary>▼ Подробная информация ▼</summary>
-
-<summary>📋 Показать подробности 📋</summary>
-
-<summary>⋯ Подробнее ⋯</summary>
-
-<summary><span style="color:#2196F3;">◉</span> <strong>Подробная информация</strong> <span style="color:#2196F3;">◉</span></summary>
-
-<summary>🔥 ПОДРОБНАЯ ИНФОРМАЦИЯ 🔥</summary>
-
-<summary>📖 Читать подробнее ▾</summary>
-
-<img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
-
-
 # Привет, меня зовут Леонид! 👋
 
 ![API Tests](https://github.com/Leonid-QA/Leonid-QA/actions/workflows/main.yml/badge.svg)
