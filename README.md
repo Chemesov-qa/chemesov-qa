@@ -315,7 +315,7 @@
 
   &nbsp; &nbsp;
 
-  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE_1.png)
 
 </div>
 
@@ -334,7 +334,7 @@
 
   &nbsp; &nbsp;
 
-  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE_2.png)
 
 </div>
 
@@ -353,7 +353,7 @@
 
   &nbsp; &nbsp;
 
-  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE_3.png)
 
 </div>
 
@@ -372,7 +372,7 @@
 
   &nbsp; &nbsp;
 
-  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE_4.png)
 
 </div>
 
