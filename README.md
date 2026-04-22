@@ -463,11 +463,29 @@
     <tr>
       <td align="center" valign="top">
         <br>
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Тестирование ПО с нуля. Практические тренажеры для тестировщика</strong><br><br>
-        <a href="#">
-          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
-        </a>
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+  
+<div align="left">
+  
+> Продолжительность курса: 100 академических часов<br>
+> Освоенные темы:<br>
+> Классификация тестирования, анализ требований, тест-дизайн.<br>
+> Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE.<br>
+> Тестирование WEB и API в DevTools, Figma, Postman.<br>
+> Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
+> Тестирование Mobile в Android Studio и Charles Proxy.<br>
+> Работа с git и bash. Основы CI/CD в Jenkins<br>
+
+</div>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+&nbsp;  &nbsp;
         <br><br>
       </td>
       <td align="center" valign="top">
