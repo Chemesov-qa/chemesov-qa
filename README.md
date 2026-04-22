@@ -305,7 +305,7 @@
 &nbsp;  &nbsp;
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень
+Тестирование ПО с нуля.<br> Теория + Практика.<br> Базовый уровень<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -321,7 +321,7 @@
 &nbsp;  &nbsp;
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Практические тренажеры для тестировщика
+Тестирование ПО с нуля. Практические тренажеры для тестировщика<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -338,7 +338,7 @@
 
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Тесты
+Тестирование ПО с нуля. Тесты<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -357,7 +357,7 @@
 
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Старый Новый Баг!<br>Тесты
+Старый Новый Баг!<br>Тесты<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -466,4 +466,98 @@
       </td>
     </tr>
   </table>
+</div>
+
+
+<div align="center">
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+  
+<div align="left">
+  
+> Продолжительность курса: 100 академических часов<br>
+> Освоенные темы:<br>
+> Классификация тестирования, анализ требований, тест-дизайн.<br>
+> Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE.<br>
+> Тестирование WEB и API в DevTools, Figma, Postman.<br>
+> Работа с MySQL (SELECT, JOIN) и MongoDB.<br>
+> Тестирование Mobile в Android Studio и Charles Proxy.<br>
+> Работа с git и bash. Основы CI/CD в Jenkins<br>
+
+</div>
+
+</details>
+
+</div>
+
+&nbsp; &nbsp;
+<div align="center">
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+</div>
+
+&nbsp; &nbsp;
+<div align="center">
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля<br> Практические тренажеры для тестировщика
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+</div>
+
+&nbsp; &nbsp;
+<div align="center">
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля<br> Тесты
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+</div>
+
+&nbsp; &nbsp;
+<div align="center">
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Старый Новый Баг!<br>Тесты
+
+<details>
+<summary>Подробная информация 💡</summary>
+
+  &nbsp; &nbsp;
+
+  ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+</div>
+</div>
+</div>
 </div>
