@@ -339,13 +339,49 @@
 </div>
 
 <details>
-<summary>📦 Посмотреть Сертификат</summary>
+<summary><img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMlY2YTIgMiAwIDAgMCAyIDJoNCIvPjxwYXRoIGQ9Ik0xMCAxNEgxMCIvPjxwYXRoIGQ9Ik0xMCAxOEgxMCIvPjxwYXRoIGQ9Ik0xMCAxMEg2YTIgMiAwIDAgMC0yIDJ2NmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJ2LTVhMiAyIDAgMCAwLTItMkgxMCIvPjwvc3ZnPg==" alt="Посмотреть Сертификат"></summary>
 
 ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 </details>
 
 ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+
+</details>
+
 
 ---
 
