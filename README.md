@@ -457,12 +457,21 @@
 </details>
 
 &nbsp;  &nbsp;
+
+
+
+
+&nbsp;  &nbsp;
         <br><br>
       </td>
     </tr>
     <tr>
       <td align="center" valign="top">
         <br>
+
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
+
 <details>
 <summary>Подробная информация 💡</summary>
 
