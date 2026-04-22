@@ -292,7 +292,7 @@
 </div>
 
 <details>
-<summary>Подробнее</summary>
+<summary>Подробная информация ▼</summary>
   
   &nbsp; &nbsp;
   
