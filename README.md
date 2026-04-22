@@ -435,7 +435,7 @@
 Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
 <details>
-<summary><img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge"</summary>
+<summary>Подробная информация 💡</summary>
 
   &nbsp; &nbsp;
   
