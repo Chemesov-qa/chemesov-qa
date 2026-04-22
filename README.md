@@ -297,8 +297,6 @@
 > Работа с git и bash. Основы CI/CD в Jenkins<br>
 
 </div>
-  
-&nbsp; &nbsp;
 
 </details>
 
