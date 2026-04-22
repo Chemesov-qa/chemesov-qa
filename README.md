@@ -529,3 +529,130 @@
     </tr>
   </table>
 </div>
+
+
+---
+
+<div align="center">
+  <br>
+  <em>«Тестирование — это не просто поиск ошибок, это забота о качестве продукта и комфорте пользователя»</em> 🚀
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ваш-github&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <br>
+        <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="40"/><br>
+        <strong>Тестирование ПО с нуля. Теория + Практика<br> Продвинутый уровень</strong><br><br>
+        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-E67E22?style=for-the-badge" alt="Посмотреть сертификат">
+        </a>
+        <br><br>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <br>
+        <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+        <strong>Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ</strong><br>
+
+<details>
+<summary><strong>📘 Подробная информация 💡</strong></summary>
+
+<br>
+  
+<div align="left">
+  
+> **Продолжительность курса:** 100 академических часов<br>
+> **Освоенные темы:**<br>
+> • Классификация тестирования, анализ требований, тест-дизайн<br>
+> • Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE<br>
+> • Тестирование WEB и API в DevTools, Figma, Postman<br>
+> • Работа с MySQL (SELECT, JOIN) и MongoDB<br>
+> • Тестирование Mobile в Android Studio и Charles Proxy<br>
+> • Работа с git и bash. Основы CI/CD в Jenkins
+
+</div>
+
+<br>
+<div align="center">
+  <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+    <img src="https://img.shields.io/badge/📜_ОТКРЫТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Открыть сертификат">
+  </a>
+</div>
+<br>
+
+</details>
+
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
+        <strong>Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень</strong><br>
+
+<details>
+<summary><strong>📗 Подробная информация 💡</strong></summary>
+
+<br>
+  
+<div align="left">
+  
+> **Продолжительность курса:** 100 академических часов<br>
+> **Освоенные темы:**<br>
+> • Классификация тестирования, анализ требований, тест-дизайн<br>
+> • Тестовая документация в JIRA, Youtrack, TestRail, TestIT, QASE<br>
+> • Тестирование WEB и API в DevTools, Figma, Postman<br>
+> • Работа с MySQL (SELECT, JOIN) и MongoDB<br>
+> • Тестирование Mobile в Android Studio и Charles Proxy<br>
+> • Работа с git и bash. Основы CI/CD в Jenkins
+
+</div>
+
+<br>
+<div align="center">
+  <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+    <img src="https://img.shields.io/badge/📜_ОТКРЫТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Открыть сертификат">
+  </a>
+</div>
+<br>
+
+</details>
+
+        <br>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Тестирование ПО с нуля<br> Практические тренажеры</strong><br><br>
+        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
+        </a>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Тестирование ПО с нуля<br>Тесты</strong><br><br>
+        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
+        </a>
+        <br><br>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Старый Новый Баг!<br>Тесты</strong><br><br>
+        <a href="./CERTIFICATE/MAIN_CERTIFICATE.png" target="_blank">
+          <img src="https://img.shields.io/badge/ПОСМОТРЕТЬ_СЕРТИФИКАТ-2196F3?style=for-the-badge" alt="Посмотреть сертификат">
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
