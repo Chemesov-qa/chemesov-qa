@@ -450,9 +450,9 @@
 > Тестирование Mobile в Android Studio и Charles Proxy.<br>
 > Работа с git и bash. Основы CI/CD в Jenkins<br>
 
-![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
-
 </div>
+
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 </details>
 
