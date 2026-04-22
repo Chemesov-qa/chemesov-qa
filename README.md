@@ -292,7 +292,7 @@
 </div>
 
 <details>
-<summary>Подробная информация ▼</summary>
+<summary>Подробная информация 💡</summary>
   
   &nbsp; &nbsp;
   
