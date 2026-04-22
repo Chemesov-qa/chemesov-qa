@@ -338,6 +338,13 @@
   </table>
 </div>
 
+<details>
+<summary>📦 Посмотреть Сертификат</summary>
+
+```python
+![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
+```
+</details>
 ![Баг-репорт BUG-03](./CERTIFICATE/MAIN_CERTIFICATE.png)
 
 ---
