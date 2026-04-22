@@ -274,6 +274,8 @@
 
 ### 🏆 Сертификаты 🏆
 
+&nbsp;  &nbsp;
+
 <table width="1000%">
   <tr>
     <td style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background-color: #f9f9f9;">
