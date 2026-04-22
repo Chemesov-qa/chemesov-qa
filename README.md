@@ -278,7 +278,7 @@
 &nbsp;  &nbsp;
 
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-ТЕСТИРОВАНИЕ ПО С НУЛЯ ТЕОРИЯ + ПРАКТИКА<br>ПРОДВИНУТЫЙ КУРС С ИИ
+ТЕСТИРОВАНИЕ ПО С НУЛЯ<br> ТЕОРИЯ + ПРАКТИКА<br>ПРОДВИНУТЫЙ КУРС С ИИ
 
 <details>
 <summary>Подробная информация 💡</summary>
