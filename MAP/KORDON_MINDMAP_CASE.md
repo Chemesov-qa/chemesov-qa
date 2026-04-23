@@ -51,7 +51,7 @@
 *   Приемо-сдаточные испытания (FAT/SAT).
 *   Регрессионное тестирование при обновлении версий ПО (текущая версия: 1.2).
 
-[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/Чек~лист_тестирования_ПАК_Кордон-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![НАЗАД К ПРОФИЛЮ](https://img.shields.io/badge/Чек~лист_тестирования_ПАК_Кордон-6f42c1?style=for-the-badge)](https://github.com/Leonid-QA)
 
 ---
 
