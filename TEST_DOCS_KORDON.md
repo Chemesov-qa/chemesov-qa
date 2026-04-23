@@ -53,13 +53,13 @@
 
 **Выявленные баги ❌ и критические баги ⚠️:**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ **REG-06:** Сбой регистрации ТС в БД на комплексе 101-11.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️ **REG-07:** Нестабильность трансляции видеопотока (Frame Loss > 15%) на комплексе 103-33.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ **REG-09:** Баг «Размножение дублей» записей WUP в системе на комплексе 101-11.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️ **REG-12:** Критическое заполнение раздела Disk C (логи ошибок заняли > 40Гб) на комплексе 103-33.<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ **REG-06:** Сбой регистрации ТС в БД на комплексе 101-11.<br>
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️ **REG-07:** Нестабильность трансляции видеопотока (Frame Loss > 15%) на комплексе 103-33.<br>
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ **REG-09:** Баг «Размножение дублей» записей WUP в системе на комплексе 101-11.<br>
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️ **REG-12:** Критическое заполнение раздела Disk C (логи ошибок заняли > 40Гб) на комплексе 103-33.<br>
 
 **Итог:** &nbsp;Обновление было отправлено на доработку.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Разработчикам предоставлен детальный отчёт о дефектах с приложением системных логов из директории `D:\Errors`.
 
