@@ -56,9 +56,9 @@
 ---
 
 ### Технологический стек проекта:
-*   **Networking:** ICMP, VPN (Tunneling), RTSP, HTTP.
-*   **System:** Windows Services Management, System Logs Analysis, OS Resource Control.
-*   **QA Tools:** Mind Mapping, Test Documentation Design, System Decomposition.
+*   **Сеть:** ICMP, VPN (Tunneling), RTSP, HTTP.
+*   **Система:** Windows Services Management, System Logs Analysis, OS Resource Control.
+*   **QA Инструменты:** Mind Mapping, Test Documentation Design, System Decomposition.
 
 ---
 
