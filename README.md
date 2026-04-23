@@ -277,8 +277,7 @@
 
 &nbsp;  &nbsp;<br>
 
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>Тестирование ПО с нуля<br>ТЕОРИЯ + ПРАКТИКА<br>Продвинутый курс с ИИ<br>
 
 <details>
 <summary>Подробная информация 💡</summary>
@@ -308,7 +307,7 @@
 
 <div align="center">
 <img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Теория + Практика<br> Базовый уровень<br>
+Тестирование ПО с нуля<br>ТЕОРИЯ + ПРАКТИКА<br> Базовый уровень<br>
 &nbsp; &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
@@ -324,8 +323,7 @@
 ---
 
 <div align="center">
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Практические тренажеры для тестировщика<br>
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>Тестирование ПО с нуля<br>Практические тренажеры для тестировщика<br>
 &nbsp;  &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
@@ -341,8 +339,7 @@
 ---
 
 <div align="center">
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Тестирование ПО с нуля<br> Тесты<br>
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>Тестирование ПО с нуля<br>Тесты<br>
 &nbsp;  &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
@@ -358,8 +355,7 @@
 ---
 
 <div align="center">
-<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>
-Старый Новый Баг!<br>Тесты<br>
+<img src="https://img.icons8.com/color-glass/48/000000/certificate.png" width="48"><br>Старый Новый Баг!<br>Тесты<br>
 &nbsp;  &nbsp;
 <details>
 <summary>Смотреть сертификат 💡</summary>
