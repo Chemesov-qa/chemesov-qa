@@ -160,13 +160,12 @@
 
 &nbsp; &nbsp;
 
-[![Посмотреть Test Summary Report](https://img.shields.io/badge/📊_Посмотреть_отчёт_по_тестированию-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Посмотреть Test Summary Report](https://img.shields.io/badge/📊_Посмотреть_отчёт_по_тестированию-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md)
 
 &nbsp;&nbsp;
 > *Понимание физики процессов и оценка рисков для заказчика помогли проверить обновление,<br>
 > найти критические баги и не допустить нестабильную прошивку в эксплуатацию.*
 
----
 ---
 
 ### 📊 Мои проекты
