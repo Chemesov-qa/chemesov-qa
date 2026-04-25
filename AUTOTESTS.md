@@ -306,7 +306,7 @@ def test_export_resolutions_xls():
 | :---: | :---: | :---: | :---: |
 | **Тестовая документация** | Создание тест-кейсов и чек-листов для ПАК «Кордон» | Jira, TestRail, MS Excel | [![Doc](https://img.shields.io/badge/🗄️_Тестовая_документация-3A6D8C?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
 | **API тестирование** | Автоматизированные коллекции тестов для REST-сервисов | Postman, Swagger | [![API](https://img.shields.io/badge/🔌_API_тесты-C75B39?style=for-the-badge)](./API_TESTING_POSTMAN.md) |
-| **SQL запросы** | Валидация данных и сложные выборки для проверки БД | MySQL, DBeaver | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-B8860B?style=for-the-badge)](./TEST_DOCS_KORDON.md) |
+| **SQL запросы** | Валидация данных и сложные выборки для проверки БД | MySQL, DBeaver | [![SQL](https://img.shields.io/badge/🗄️_SQL_запросы-B8860B?style=for-the-badge)](./SQL_CASES.md) |
 | **Mind-map** | Визуализация стратегии покрытия<br>Декомпозиция проекта | XMind | [![Mind-map](https://img.shields.io/badge/🗺️_Mind--Map-2D7A4B?style=for-the-badge)](./MAP/KORDON_MINDMAP_CASE.md) |
 | **План / Test Plan** | Стратегия обеспечения качества<br> Методология проверок | Markdown, Confluence | [![Test Plan](https://img.shields.io/badge/📋_Test_Plan-E67E22?style=for-the-badge)](./TEST_PLAN_KORDON.md) |
 | **Test Summary Report** | Отчет по итогам цикла тестирования с метриками | Allure, MS Word | [![Отчёт](https://img.shields.io/badge/📊_Test_Report-6B4A7A?style=for-the-badge)](./TEST_SUMMARY.md) |
